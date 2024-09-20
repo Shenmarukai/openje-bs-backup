@@ -1,6 +1,6 @@
 last_change = 2024-09-20T20:50:29.964399Z
 name = "Action_vftable"
-size = 0xc
+size = 0x10
 
 [members.0x0]
 name = "virt_deldtor_0x4010e0"
@@ -17,5 +17,11 @@ size = 0x4
 [members.0x8]
 name = "__purecall_2"
 offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x4010d0"
+offset = 0xc
 type = ""
 size = 0x4
