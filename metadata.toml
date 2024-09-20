@@ -3,4 +3,4 @@ version = "4.8.2"
 last_push_time = 2024-09-20T20:50:30.000901Z
 last_push_artifact = -1
 last_push_artifact_type = -1
-last_commit_msg = "Updated <Struct: ActionAnim_Action_vftable membs=6 (0x18)>"
+last_commit_msg = "Updated <Struct: ActionAnim_Action_vftable membs=7 (0x1c)>"
