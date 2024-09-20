@@ -1,9 +1,15 @@
 last_change = 2024-09-20T20:50:29.982713Z
 name = "ActionAnim_Action_vftable"
-size = 0x4
+size = 0x8
 
 [members.0x0]
 name = "virt_meth_0x405350"
 offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x5a9260"
+offset = 0x4
 type = ""
 size = 0x4
