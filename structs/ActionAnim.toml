@@ -1,6 +1,6 @@
 last_change = 2024-09-20T20:50:29.982713Z
 name = "ActionAnim"
-size = 0x20
+size = 0x22
 
 [members.0x10]
 name = "mbr_0x10"
@@ -25,3 +25,9 @@ name = "mbr_0x1c"
 offset = 0x1c
 type = ""
 size = 0x4
+
+[members.0x20]
+name = "mbr_0x20"
+offset = 0x20
+type = ""
+size = 0x2
