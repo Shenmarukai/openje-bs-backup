@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2216d6
+size = 0xc7
+name = "__setenvp"
+
+[header]
+name = "__setenvp"
+addr = 0x2216d6
+
+[header.args]

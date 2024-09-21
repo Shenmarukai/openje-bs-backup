@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x218b40
+size = 0x14
+name = "__CIasin"
+
+[header]
+name = "__CIasin"
+addr = 0x218b40
+
+[header.args]

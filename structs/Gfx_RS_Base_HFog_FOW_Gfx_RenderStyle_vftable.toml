@@ -1,0 +1,87 @@
+last_change = 2024-09-20T21:52:21.063371Z
+name = "Gfx_RS_Base_HFog_FOW_Gfx_RenderStyle_vftable"
+size = 0x38
+
+[members.0x0]
+name = "virt_meth_0x537570"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x53f120"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x5362a0"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x5362d0"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x5362f0"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x5374a0"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x537520"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x537550"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "virt_meth_0x5374b0"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "virt_meth_0x5374c0"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x53f360"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x5374d0"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "virt_meth_0x5374f0"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "virt_meth_0x537500"
+offset = 0x34
+type = ""
+size = 0x4

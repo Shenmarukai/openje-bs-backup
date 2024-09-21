@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21749b
+size = 0x3f
+name = "_isalnum"
+
+[header]
+name = "_isalnum"
+addr = 0x21749b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1ce810
+size = 0x6
+name = "Direct3DCreate8"
+
+[header]
+name = "Direct3DCreate8"
+addr = 0x1ce810
+
+[header.args]

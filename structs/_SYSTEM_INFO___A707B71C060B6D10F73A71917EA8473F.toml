@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F"
+size = 0x4
+
+[members.0x0]
+name = "dwOemId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x1]
+name = "anonymous_0"
+offset = 0x1
+type = "struct _SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F::$AA04DEB0C6383F89F13D312A174572A9"
+size = 0x4

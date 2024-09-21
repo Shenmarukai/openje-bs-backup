@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "Gfx_CamCtrl_Orbit_Gfx_CamCtrl_vftable"
+size = 0xc
+
+[members.0x0]
+name = "virt_meth_0x4c6880"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x529ef0"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x4c6430"
+offset = 0x8
+type = ""
+size = 0x4

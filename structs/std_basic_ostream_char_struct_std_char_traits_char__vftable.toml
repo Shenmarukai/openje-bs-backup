@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "std_basic_ostream_char_struct_std_char_traits_char__vftable"
+size = 0x4
+
+[members.0x0]
+name = "virt_meth_0x496750"
+offset = 0x0
+type = ""
+size = 0x4

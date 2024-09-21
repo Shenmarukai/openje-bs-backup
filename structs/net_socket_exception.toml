@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "net_socket_exception"
+size = 0x8
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x8

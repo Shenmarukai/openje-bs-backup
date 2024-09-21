@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2299c5
+size = 0x7c
+name = "__set_osfhnd"
+
+[header]
+name = "__set_osfhnd"
+addr = 0x2299c5
+
+[header.args]

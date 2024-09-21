@@ -1,0 +1,723 @@
+last_change = 2024-09-20T21:52:21.063371Z
+name = "Gfx_System_Interface_vftable"
+size = 0x1e0
+
+[members.0x0]
+name = "__purecall"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "__purecall_1"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "__purecall_2"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "__purecall_3"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "__purecall_4"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "__purecall_5"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "__purecall_6"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "__purecall_7"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "__purecall_8"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "__purecall_9"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "__purecall_10"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "__purecall_11"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "__purecall_12"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "__purecall_13"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "__purecall_14"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "__purecall_15"
+offset = 0x3c
+type = ""
+size = 0x4
+
+[members.0x40]
+name = "__purecall_16"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "__purecall_17"
+offset = 0x44
+type = ""
+size = 0x4
+
+[members.0x48]
+name = "__purecall_18"
+offset = 0x48
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "__purecall_19"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "__purecall_20"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0x54]
+name = "__purecall_21"
+offset = 0x54
+type = ""
+size = 0x4
+
+[members.0x58]
+name = "__purecall_22"
+offset = 0x58
+type = ""
+size = 0x4
+
+[members.0x5c]
+name = "__purecall_23"
+offset = 0x5c
+type = ""
+size = 0x4
+
+[members.0x60]
+name = "__purecall_24"
+offset = 0x60
+type = ""
+size = 0x4
+
+[members.0x64]
+name = "__purecall_25"
+offset = 0x64
+type = ""
+size = 0x4
+
+[members.0x68]
+name = "__purecall_26"
+offset = 0x68
+type = ""
+size = 0x4
+
+[members.0x6c]
+name = "__purecall_27"
+offset = 0x6c
+type = ""
+size = 0x4
+
+[members.0x70]
+name = "__purecall_28"
+offset = 0x70
+type = ""
+size = 0x4
+
+[members.0x74]
+name = "__purecall_29"
+offset = 0x74
+type = ""
+size = 0x4
+
+[members.0x78]
+name = "__purecall_30"
+offset = 0x78
+type = ""
+size = 0x4
+
+[members.0x7c]
+name = "__purecall_31"
+offset = 0x7c
+type = ""
+size = 0x4
+
+[members.0x80]
+name = "__purecall_32"
+offset = 0x80
+type = ""
+size = 0x4
+
+[members.0x84]
+name = "__purecall_33"
+offset = 0x84
+type = ""
+size = 0x4
+
+[members.0x88]
+name = "__purecall_34"
+offset = 0x88
+type = ""
+size = 0x4
+
+[members.0x8c]
+name = "__purecall_35"
+offset = 0x8c
+type = ""
+size = 0x4
+
+[members.0x90]
+name = "__purecall_36"
+offset = 0x90
+type = ""
+size = 0x4
+
+[members.0x94]
+name = "__purecall_37"
+offset = 0x94
+type = ""
+size = 0x4
+
+[members.0x98]
+name = "__purecall_38"
+offset = 0x98
+type = ""
+size = 0x4
+
+[members.0x9c]
+name = "__purecall_39"
+offset = 0x9c
+type = ""
+size = 0x4
+
+[members.0xa0]
+name = "__purecall_40"
+offset = 0xa0
+type = ""
+size = 0x4
+
+[members.0xa4]
+name = "__purecall_41"
+offset = 0xa4
+type = ""
+size = 0x4
+
+[members.0xa8]
+name = "__purecall_42"
+offset = 0xa8
+type = ""
+size = 0x4
+
+[members.0xac]
+name = "__purecall_43"
+offset = 0xac
+type = ""
+size = 0x4
+
+[members.0xb0]
+name = "__purecall_44"
+offset = 0xb0
+type = ""
+size = 0x4
+
+[members.0xb4]
+name = "__purecall_45"
+offset = 0xb4
+type = ""
+size = 0x4
+
+[members.0xb8]
+name = "__purecall_46"
+offset = 0xb8
+type = ""
+size = 0x4
+
+[members.0xbc]
+name = "__purecall_47"
+offset = 0xbc
+type = ""
+size = 0x4
+
+[members.0xc0]
+name = "__purecall_48"
+offset = 0xc0
+type = ""
+size = 0x4
+
+[members.0xc4]
+name = "__purecall_49"
+offset = 0xc4
+type = ""
+size = 0x4
+
+[members.0xc8]
+name = "__purecall_50"
+offset = 0xc8
+type = ""
+size = 0x4
+
+[members.0xcc]
+name = "__purecall_51"
+offset = 0xcc
+type = ""
+size = 0x4
+
+[members.0xd0]
+name = "__purecall_52"
+offset = 0xd0
+type = ""
+size = 0x4
+
+[members.0xd4]
+name = "__purecall_53"
+offset = 0xd4
+type = ""
+size = 0x4
+
+[members.0xd8]
+name = "__purecall_54"
+offset = 0xd8
+type = ""
+size = 0x4
+
+[members.0xdc]
+name = "__purecall_55"
+offset = 0xdc
+type = ""
+size = 0x4
+
+[members.0xe0]
+name = "__purecall_56"
+offset = 0xe0
+type = ""
+size = 0x4
+
+[members.0xe4]
+name = "__purecall_57"
+offset = 0xe4
+type = ""
+size = 0x4
+
+[members.0xe8]
+name = "__purecall_58"
+offset = 0xe8
+type = ""
+size = 0x4
+
+[members.0xec]
+name = "__purecall_59"
+offset = 0xec
+type = ""
+size = 0x4
+
+[members.0xf0]
+name = "__purecall_60"
+offset = 0xf0
+type = ""
+size = 0x4
+
+[members.0xf4]
+name = "__purecall_61"
+offset = 0xf4
+type = ""
+size = 0x4
+
+[members.0xf8]
+name = "__purecall_62"
+offset = 0xf8
+type = ""
+size = 0x4
+
+[members.0xfc]
+name = "__purecall_63"
+offset = 0xfc
+type = ""
+size = 0x4
+
+[members.0x100]
+name = "__purecall_64"
+offset = 0x100
+type = ""
+size = 0x4
+
+[members.0x104]
+name = "__purecall_65"
+offset = 0x104
+type = ""
+size = 0x4
+
+[members.0x108]
+name = "__purecall_66"
+offset = 0x108
+type = ""
+size = 0x4
+
+[members.0x10c]
+name = "__purecall_67"
+offset = 0x10c
+type = ""
+size = 0x4
+
+[members.0x110]
+name = "__purecall_68"
+offset = 0x110
+type = ""
+size = 0x4
+
+[members.0x114]
+name = "__purecall_69"
+offset = 0x114
+type = ""
+size = 0x4
+
+[members.0x118]
+name = "__purecall_70"
+offset = 0x118
+type = ""
+size = 0x4
+
+[members.0x11c]
+name = "__purecall_71"
+offset = 0x11c
+type = ""
+size = 0x4
+
+[members.0x120]
+name = "__purecall_72"
+offset = 0x120
+type = ""
+size = 0x4
+
+[members.0x124]
+name = "__purecall_73"
+offset = 0x124
+type = ""
+size = 0x4
+
+[members.0x128]
+name = "__purecall_74"
+offset = 0x128
+type = ""
+size = 0x4
+
+[members.0x12c]
+name = "__purecall_75"
+offset = 0x12c
+type = ""
+size = 0x4
+
+[members.0x130]
+name = "__purecall_76"
+offset = 0x130
+type = ""
+size = 0x4
+
+[members.0x134]
+name = "__purecall_77"
+offset = 0x134
+type = ""
+size = 0x4
+
+[members.0x138]
+name = "__purecall_78"
+offset = 0x138
+type = ""
+size = 0x4
+
+[members.0x13c]
+name = "__purecall_79"
+offset = 0x13c
+type = ""
+size = 0x4
+
+[members.0x140]
+name = "__purecall_80"
+offset = 0x140
+type = ""
+size = 0x4
+
+[members.0x144]
+name = "__purecall_81"
+offset = 0x144
+type = ""
+size = 0x4
+
+[members.0x148]
+name = "__purecall_82"
+offset = 0x148
+type = ""
+size = 0x4
+
+[members.0x14c]
+name = "__purecall_83"
+offset = 0x14c
+type = ""
+size = 0x4
+
+[members.0x150]
+name = "__purecall_84"
+offset = 0x150
+type = ""
+size = 0x4
+
+[members.0x154]
+name = "__purecall_85"
+offset = 0x154
+type = ""
+size = 0x4
+
+[members.0x158]
+name = "__purecall_86"
+offset = 0x158
+type = ""
+size = 0x4
+
+[members.0x15c]
+name = "__purecall_87"
+offset = 0x15c
+type = ""
+size = 0x4
+
+[members.0x160]
+name = "__purecall_88"
+offset = 0x160
+type = ""
+size = 0x4
+
+[members.0x164]
+name = "__purecall_89"
+offset = 0x164
+type = ""
+size = 0x4
+
+[members.0x168]
+name = "__purecall_90"
+offset = 0x168
+type = ""
+size = 0x4
+
+[members.0x16c]
+name = "__purecall_91"
+offset = 0x16c
+type = ""
+size = 0x4
+
+[members.0x170]
+name = "__purecall_92"
+offset = 0x170
+type = ""
+size = 0x4
+
+[members.0x174]
+name = "__purecall_93"
+offset = 0x174
+type = ""
+size = 0x4
+
+[members.0x178]
+name = "__purecall_94"
+offset = 0x178
+type = ""
+size = 0x4
+
+[members.0x17c]
+name = "__purecall_95"
+offset = 0x17c
+type = ""
+size = 0x4
+
+[members.0x180]
+name = "__purecall_96"
+offset = 0x180
+type = ""
+size = 0x4
+
+[members.0x184]
+name = "__purecall_97"
+offset = 0x184
+type = ""
+size = 0x4
+
+[members.0x188]
+name = "__purecall_98"
+offset = 0x188
+type = ""
+size = 0x4
+
+[members.0x18c]
+name = "__purecall_99"
+offset = 0x18c
+type = ""
+size = 0x4
+
+[members.0x190]
+name = "__purecall_100"
+offset = 0x190
+type = ""
+size = 0x4
+
+[members.0x194]
+name = "__purecall_101"
+offset = 0x194
+type = ""
+size = 0x4
+
+[members.0x198]
+name = "__purecall_102"
+offset = 0x198
+type = ""
+size = 0x4
+
+[members.0x19c]
+name = "__purecall_103"
+offset = 0x19c
+type = ""
+size = 0x4
+
+[members.0x1a0]
+name = "__purecall_104"
+offset = 0x1a0
+type = ""
+size = 0x4
+
+[members.0x1a4]
+name = "__purecall_105"
+offset = 0x1a4
+type = ""
+size = 0x4
+
+[members.0x1a8]
+name = "__purecall_106"
+offset = 0x1a8
+type = ""
+size = 0x4
+
+[members.0x1ac]
+name = "__purecall_107"
+offset = 0x1ac
+type = ""
+size = 0x4
+
+[members.0x1b0]
+name = "__purecall_108"
+offset = 0x1b0
+type = ""
+size = 0x4
+
+[members.0x1b4]
+name = "__purecall_109"
+offset = 0x1b4
+type = ""
+size = 0x4
+
+[members.0x1b8]
+name = "__purecall_110"
+offset = 0x1b8
+type = ""
+size = 0x4
+
+[members.0x1bc]
+name = "__purecall_111"
+offset = 0x1bc
+type = ""
+size = 0x4
+
+[members.0x1c0]
+name = "__purecall_112"
+offset = 0x1c0
+type = ""
+size = 0x4
+
+[members.0x1c4]
+name = "__purecall_113"
+offset = 0x1c4
+type = ""
+size = 0x4
+
+[members.0x1c8]
+name = "__purecall_114"
+offset = 0x1c8
+type = ""
+size = 0x4
+
+[members.0x1cc]
+name = "__purecall_115"
+offset = 0x1cc
+type = ""
+size = 0x4
+
+[members.0x1d0]
+name = "__purecall_116"
+offset = 0x1d0
+type = ""
+size = 0x4
+
+[members.0x1d4]
+name = "__purecall_117"
+offset = 0x1d4
+type = ""
+size = 0x4
+
+[members.0x1d8]
+name = "__purecall_118"
+offset = 0x1d8
+type = ""
+size = 0x4
+
+[members.0x1dc]
+name = "__purecall_119"
+offset = 0x1dc
+type = ""
+size = 0x4

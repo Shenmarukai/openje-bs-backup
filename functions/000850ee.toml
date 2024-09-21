@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x850ee
+size = 0xc6
+name = "sub_4850EE"
+
+[header]
+name = "sub_4850EE"
+addr = 0x850ee
+
+[header.args]

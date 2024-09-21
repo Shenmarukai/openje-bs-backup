@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xfb450
+size = 0x28
+name = "sub_4FB450"
+
+[header]
+name = "sub_4FB450"
+addr = 0xfb450
+
+[header.args]

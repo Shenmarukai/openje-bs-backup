@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x18c200
+size = 0xb8
+name = "virt_meth_0x58c200"
+
+[header]
+name = "virt_meth_0x58c200"
+addr = 0x18c200
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x587c0
+size = 0x12
+name = "dtor_0x4587c0"
+
+[header]
+name = "dtor_0x4587c0"
+addr = 0x587c0
+
+[header.args]

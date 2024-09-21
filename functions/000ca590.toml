@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xca590
+size = 0x64
+name = "sub_4CA590"
+
+[header]
+name = "sub_4CA590"
+addr = 0xca590
+
+[header.args]

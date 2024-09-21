@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22025b
+size = 0x48
+name = "__ctrandisp2"
+
+[header]
+name = "__ctrandisp2"
+addr = 0x22025b
+
+[header.args]

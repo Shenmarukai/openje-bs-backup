@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21ab8e
+size = 0x12
+name = "_malloc"
+
+[header]
+name = "_malloc"
+addr = 0x21ab8e
+
+[header.args]

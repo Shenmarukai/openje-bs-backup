@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFXEFFECTTYPE_COLLISION_Struct_VFXEFFECTTYPE_BASE_Struct_vftable"
+size = 0x4
+
+[members.0x0]
+name = "virt_meth_0x4e8020"
+offset = 0x0
+type = ""
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21946b
+size = 0x58
+name = "_fputc"
+
+[header]
+name = "_fputc"
+addr = 0x21946b
+
+[header.args]

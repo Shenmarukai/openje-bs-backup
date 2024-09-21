@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2198be
+size = 0x8a
+name = "__ismbcupper"
+
+[header]
+name = "__ismbcupper"
+addr = 0x2198be
+
+[header.args]

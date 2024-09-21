@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "cls_0x40a220"
+size = 0x9c
+
+[members.0x64]
+name = "parent_64"
+offset = 0x64
+type = ""
+size = 0x38

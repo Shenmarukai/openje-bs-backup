@@ -1,0 +1,99 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameInventory_Inventory_vftable"
+size = 0x40
+
+[members.0x0]
+name = "virt_meth_0x46ba10"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x4690a0"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x469550"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x4692d0"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x469240"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x4691c0"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x55fda0"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x55fe20"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "j_nullsub_5"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "j_nullsub_5_9"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x46a860"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x469670"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "j_virt_meth_0x55fcd0"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "virt_meth_0x469410"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "virt_meth_0x46be40"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "virt_meth_0x46b350"
+offset = 0x3c
+type = ""
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "CPPEH_RECORD"
+size = 0x18
+
+[members.0x0]
+name = "old_esp"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "exc_ptr"
+offset = 0x4
+type = "EXCEPTION_POINTERS *"
+size = 0x4
+
+[members.0x8]
+name = "registration"
+offset = 0x8
+type = "struct _EH3_EXCEPTION_REGISTRATION"
+size = 0x10

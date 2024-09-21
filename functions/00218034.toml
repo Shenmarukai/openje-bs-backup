@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x218034
+size = 0x24
+name = "__strcats"
+
+[header]
+name = "__strcats"
+addr = 0x218034
+
+[header.args]

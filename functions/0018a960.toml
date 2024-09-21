@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x18a960
+size = 0x1e
+name = "stdiobuf::_scalar_deleting_destructor_(uint)"
+
+[header]
+name = "stdiobuf::_scalar_deleting_destructor_(uint)"
+addr = 0x18a960
+
+[header.args]

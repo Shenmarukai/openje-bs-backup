@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x216fd2
+size = 0x38
+name = "__onexit"
+
+[header]
+name = "__onexit"
+addr = 0x216fd2
+
+[header.args]

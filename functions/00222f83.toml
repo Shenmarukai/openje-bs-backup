@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x222f83
+size = 0xb7
+name = "___sbh_alloc_new_region"
+
+[header]
+name = "___sbh_alloc_new_region"
+addr = 0x222f83
+
+[header.args]

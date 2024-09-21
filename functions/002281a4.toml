@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2281a4
+size = 0x8b
+name = "___crtInitCritSecAndSpinCount"
+
+[header]
+name = "___crtInitCritSecAndSpinCount"
+addr = 0x2281a4
+
+[header.args]

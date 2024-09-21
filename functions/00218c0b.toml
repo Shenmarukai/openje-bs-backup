@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x218c0b
+size = 0x4c
+name = "__fclose_lk"
+
+[header]
+name = "__fclose_lk"
+addr = 0x218c0b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22aef5
+size = 0x61
+name = "_copy_environ"
+
+[header]
+name = "_copy_environ"
+addr = 0x22aef5
+
+[header.args]

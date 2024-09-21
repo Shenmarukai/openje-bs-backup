@@ -1,0 +1,117 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "Server"
+size = 0x70ee
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x3c4
+
+[members.0x5064]
+name = "mbr_0x5064"
+offset = 0x5064
+type = ""
+size = 0x4
+
+[members.0x5068]
+name = "mbr_0x5068"
+offset = 0x5068
+type = ""
+size = 0x4
+
+[members.0x506c]
+name = "parent_506c"
+offset = 0x506c
+type = ""
+size = 0x3c
+
+[members.0x70a4]
+name = "mbr_0x70a4"
+offset = 0x70a4
+type = ""
+size = 0x4
+
+[members.0x70ac]
+name = "mbr_0x70ac"
+offset = 0x70ac
+type = ""
+size = 0x4
+
+[members.0x70bc]
+name = "mbr_0x70bc"
+offset = 0x70bc
+type = ""
+size = 0x4
+
+[members.0x70c0]
+name = "mbr_0x70c0"
+offset = 0x70c0
+type = ""
+size = 0x4
+
+[members.0x70c4]
+name = "mbr_0x70c4"
+offset = 0x70c4
+type = ""
+size = 0x1
+
+[members.0x70c8]
+name = "mbr_0x70c8"
+offset = 0x70c8
+type = ""
+size = 0x4
+
+[members.0x70cc]
+name = "mbr_0x70cc"
+offset = 0x70cc
+type = ""
+size = 0x4
+
+[members.0x70dc]
+name = "mbr_0x70dc"
+offset = 0x70dc
+type = ""
+size = 0x4
+
+[members.0x70e0]
+name = "mbr_0x70e0"
+offset = 0x70e0
+type = ""
+size = 0x4
+
+[members.0x70e4]
+name = "mbr_0x70e4"
+offset = 0x70e4
+type = ""
+size = 0x1
+
+[members.0x70e5]
+name = "mbr_0x70e5"
+offset = 0x70e5
+type = ""
+size = 0x1
+
+[members.0x70e6]
+name = "mbr_0x70e6"
+offset = 0x70e6
+type = ""
+size = 0x1
+
+[members.0x70e8]
+name = "mbr_0x70e8"
+offset = 0x70e8
+type = ""
+size = 0x4
+
+[members.0x70ec]
+name = "mbr_0x70ec"
+offset = 0x70ec
+type = ""
+size = 0x1
+
+[members.0x70ed]
+name = "mbr_0x70ed"
+offset = 0x70ed
+type = ""
+size = 0x1

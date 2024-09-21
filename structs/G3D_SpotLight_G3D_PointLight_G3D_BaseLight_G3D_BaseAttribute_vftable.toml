@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "G3D_SpotLight_G3D_PointLight_G3D_BaseLight_G3D_BaseAttribute_vftable"
+size = 0x18
+
+[members.0x0]
+name = "virt_meth_0x4cb170"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x4d64e0"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x4cb950"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x4d1ff0"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x4d1e50"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x4ced80"
+offset = 0x14
+type = ""
+size = 0x4

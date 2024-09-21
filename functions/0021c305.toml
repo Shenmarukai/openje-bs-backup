@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21c305
+size = 0x13
+name = "?__uncaught_exception@@YA_NXZ"
+
+[header]
+name = "?__uncaught_exception@@YA_NXZ"
+addr = 0x21c305
+
+[header.args]

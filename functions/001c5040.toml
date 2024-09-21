@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1c5040
+size = 0xdb
+name = "sub_5C5040"
+
+[header]
+name = "sub_5C5040"
+addr = 0x1c5040
+
+[header.args]

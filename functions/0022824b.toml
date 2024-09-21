@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22824b
+size = 0x1c
+name = "?_ValidateWrite@@YAHPAXI@Z"
+
+[header]
+name = "?_ValidateWrite@@YAHPAXI@Z"
+addr = 0x22824b
+
+[header.args]

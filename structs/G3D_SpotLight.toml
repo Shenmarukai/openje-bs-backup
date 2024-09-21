@@ -1,0 +1,69 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "G3D_SpotLight"
+size = 0xc0
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x84
+
+[members.0x88]
+name = "mbr_0x88"
+offset = 0x88
+type = ""
+size = 0x4
+
+[members.0x8c]
+name = "mbr_0x8c"
+offset = 0x8c
+type = ""
+size = 0x4
+
+[members.0x90]
+name = "mbr_0x90"
+offset = 0x90
+type = ""
+size = 0x4
+
+[members.0x94]
+name = "mbr_0x94"
+offset = 0x94
+type = ""
+size = 0x4
+
+[members.0x98]
+name = "mbr_0x98"
+offset = 0x98
+type = ""
+size = 0x4
+
+[members.0x9c]
+name = "mbr_0x9c"
+offset = 0x9c
+type = ""
+size = 0x4
+
+[members.0xb0]
+name = "mbr_0xb0"
+offset = 0xb0
+type = ""
+size = 0x4
+
+[members.0xb4]
+name = "mbr_0xb4"
+offset = 0xb4
+type = ""
+size = 0x4
+
+[members.0xb8]
+name = "mbr_0xb8"
+offset = 0xb8
+type = ""
+size = 0x4
+
+[members.0xbc]
+name = "mbr_0xbc"
+offset = 0xbc
+type = ""
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22303a
+size = 0x106
+name = "___sbh_alloc_new_group"
+
+[header]
+name = "___sbh_alloc_new_group"
+addr = 0x22303a
+
+[header.args]

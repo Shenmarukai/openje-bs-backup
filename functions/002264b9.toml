@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2264b9
+size = 0xb2d
+name = "__pow_pentium4"
+
+[header]
+name = "__pow_pentium4"
+addr = 0x2264b9
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1c0380
+size = 0x7
+name = "Concurrency::details::UMSSchedulerProxy::GetCompletionListEvent(void)"
+
+[header]
+name = "Concurrency::details::UMSSchedulerProxy::GetCompletionListEvent(void)"
+addr = 0x1c0380
+
+[header.args]

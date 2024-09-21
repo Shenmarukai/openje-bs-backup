@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x19d500
+size = 0x24
+name = "virt_deldtor_0x59d500"
+
+[header]
+name = "virt_deldtor_0x59d500"
+addr = 0x19d500
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21b6b7
+size = 0x22
+name = "_tolower"
+
+[header]
+name = "_tolower"
+addr = 0x21b6b7
+
+[header.args]

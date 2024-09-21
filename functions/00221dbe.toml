@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x221dbe
+size = 0x2a
+name = "__set_exp"
+
+[header]
+name = "__set_exp"
+addr = 0x221dbe
+
+[header.args]

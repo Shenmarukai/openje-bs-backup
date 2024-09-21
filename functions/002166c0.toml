@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2166c0
+size = 0x2b
+name = "?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z"
+
+[header]
+name = "?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z"
+addr = 0x2166c0
+
+[header.args]

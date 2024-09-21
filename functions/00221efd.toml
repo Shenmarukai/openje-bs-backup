@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x221efd
+size = 0x2a5
+name = "__raise_exc"
+
+[header]
+name = "__raise_exc"
+addr = 0x221efd
+
+[header.args]

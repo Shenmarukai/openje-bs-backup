@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22a5bb
+size = 0x2e
+name = "___shl_12"
+
+[header]
+name = "___shl_12"
+addr = 0x22a5bb
+
+[header.args]

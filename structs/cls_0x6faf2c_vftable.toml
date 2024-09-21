@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "cls_0x6faf2c_vftable"
+size = 0x4
+
+[members.0x0]
+name = "virt_meth_0x66e4bc"
+offset = 0x0
+type = ""
+size = 0x4

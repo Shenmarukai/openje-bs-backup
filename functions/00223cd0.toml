@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x223cd0
+size = 0x1cd
+name = "___init_numeric"
+
+[header]
+name = "___init_numeric"
+addr = 0x223cd0
+
+[header.args]

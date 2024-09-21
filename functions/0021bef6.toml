@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21bef6
+size = 0x19
+name = "____lc_codepage_func"
+
+[header]
+name = "____lc_codepage_func"
+addr = 0x21bef6
+
+[header.args]

@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.020179Z
+name = "AreaMap_vftable"
+size = 0xc
+
+[members.0x0]
+name = "virt_meth_0x57fcd0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x57ff40"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x57c140"
+offset = 0x8
+type = ""
+size = 0x4

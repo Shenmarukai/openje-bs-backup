@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "FuncInfoV1"
+size = 0x1c
+
+[members.0x0]
+name = "magicNumber"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "maxState"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "pUnwindMap"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "nTryBlocks"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "pTryBlockMap"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "nIPMapEntries"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "pIPtoStateMap"
+offset = 0x18
+type = ""
+size = 0x4

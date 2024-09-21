@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1da8a7
+size = 0x5
+name = "j_dtor_0x5d6d61"
+
+[header]
+name = "j_dtor_0x5d6d61"
+addr = 0x1da8a7
+
+[header.args]

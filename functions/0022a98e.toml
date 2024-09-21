@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22a98e
+size = 0x238
+name = "sub_62A98E"
+
+[header]
+name = "sub_62A98E"
+addr = 0x22a98e
+
+[header.args]

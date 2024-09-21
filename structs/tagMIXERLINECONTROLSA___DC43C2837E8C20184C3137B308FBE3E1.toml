@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tagMIXERLINECONTROLSA::$DC43C2837E8C20184C3137B308FBE3E1"
+size = 0x4
+
+[members.0x0]
+name = "dwControlID"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x1]
+name = "dwControlType"
+offset = 0x1
+type = "DWORD"
+size = 0x4

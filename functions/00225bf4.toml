@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x225bf4
+size = 0x4c
+name = "__fseeki64"
+
+[header]
+name = "__fseeki64"
+addr = 0x225bf4
+
+[header.args]

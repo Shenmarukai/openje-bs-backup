@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFXEFFECTTYPE_MODELEFFECT_Struct"
+size = 0xd2
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x9a]
+name = "parent_9a"
+offset = 0x9a
+type = ""
+size = 0x38

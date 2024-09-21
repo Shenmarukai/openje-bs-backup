@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21a8ca
+size = 0x2a
+name = "__itoa"
+
+[header]
+name = "__itoa"
+addr = 0x21a8ca
+
+[header.args]

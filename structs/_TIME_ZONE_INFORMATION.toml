@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_TIME_ZONE_INFORMATION"
+size = 0xac
+
+[members.0x0]
+name = "Bias"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "StandardName"
+offset = 0x4
+type = "WCHAR[32]"
+size = 0x40
+
+[members.0x44]
+name = "StandardDate"
+offset = 0x44
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x54]
+name = "StandardBias"
+offset = 0x54
+type = "LONG"
+size = 0x4
+
+[members.0x58]
+name = "DaylightName"
+offset = 0x58
+type = "WCHAR[32]"
+size = 0x40
+
+[members.0x98]
+name = "DaylightDate"
+offset = 0x98
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0xa8]
+name = "DaylightBias"
+offset = 0xa8
+type = "LONG"
+size = 0x4

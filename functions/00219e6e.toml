@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x219e6e
+size = 0x14b
+name = "__mbsicmp_619e6e"
+
+[header]
+name = "__mbsicmp_619e6e"
+addr = 0x219e6e
+
+[header.args]

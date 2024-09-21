@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21ed37
+size = 0x29
+name = "__ms_p5_mp_test_fdiv"
+
+[header]
+name = "__ms_p5_mp_test_fdiv"
+addr = 0x21ed37
+
+[header.args]

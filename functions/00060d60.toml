@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x60d60
+size = 0x66a
+name = "sub_460D60"
+
+[header]
+name = "sub_460D60"
+addr = 0x60d60
+
+[header.args]

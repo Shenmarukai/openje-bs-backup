@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21781c
+size = 0x1f
+name = "__EH_prolog"
+
+[header]
+name = "__EH_prolog"
+addr = 0x21781c
+
+[header.args]

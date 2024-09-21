@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21adfa
+size = 0x148
+name = "sub_61ADFA"
+
+[header]
+name = "sub_61ADFA"
+addr = 0x21adfa
+
+[header.args]

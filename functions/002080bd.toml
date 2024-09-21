@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2080bd
+size = 0x18
+name = "?_Gettnames@_Locinfo@std@@QBE?AV_Timevec@2@XZ"
+
+[header]
+name = "?_Gettnames@_Locinfo@std@@QBE?AV_Timevec@2@XZ"
+addr = 0x2080bd
+
+[header.args]

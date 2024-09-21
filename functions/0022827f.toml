@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22827f
+size = 0xc9
+name = "___toupper_mt"
+
+[header]
+name = "___toupper_mt"
+addr = 0x22827f
+
+[header.args]

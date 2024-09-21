@@ -1,0 +1,87 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "Condition_Effect_vftable"
+size = 0x38
+
+[members.0x0]
+name = "virt_meth_0x5a8c40"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x5a8d70"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x5a8ed0"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x5a8eb0"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x5a8c00"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x5a8f20"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x5a8c20"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "?do_always_noconv@codecvt_base@std@@MBE_NXZ"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "?do_always_noconv@codecvt_base@std@@MBE_NXZ_8"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "virt_meth_0x404b70"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x5a8dc0"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x404b70_11"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "virt_meth_0x5a8e00"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "?do_always_noconv@codecvt_base@std@@MBE_NXZ_13"
+offset = 0x34
+type = ""
+size = 0x4

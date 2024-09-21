@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x768ac
+size = 0x3a3
+name = "sub_4768AC"
+
+[header]
+name = "sub_4768AC"
+addr = 0x768ac
+
+[header.args]

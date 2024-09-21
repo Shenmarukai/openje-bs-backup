@@ -1,0 +1,81 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "std_ctype_unsigned_short__std_locale_facet_vftable"
+size = 0x34
+
+[members.0x0]
+name = "virt_meth_0x608b9e"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x6087f9"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x6089e7"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x608814"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x608842"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x608a04"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x608870"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x608a83"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "virt_meth_0x608a52"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "virt_meth_0x608b06"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x608ad1"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x6088a1"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "virt_meth_0x608b58"
+offset = 0x30
+type = ""
+size = 0x4

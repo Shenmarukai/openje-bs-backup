@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameDialogueInterface"
+size = 0x2ad
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x274]
+name = "parent_274"
+offset = 0x274
+type = ""
+size = 0x39

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x84a7e
+size = 0x14a
+name = "sub_484A7E"
+
+[header]
+name = "sub_484A7E"
+addr = 0x84a7e
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21f2be
+size = 0x1e
+name = "__mtterm"
+
+[header]
+name = "__mtterm"
+addr = 0x21f2be
+
+[header.args]

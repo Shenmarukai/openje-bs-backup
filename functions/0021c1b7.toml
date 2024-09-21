@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21c1b7
+size = 0x1e
+name = "?FrameUnwindFilter@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+
+[header]
+name = "?FrameUnwindFilter@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+addr = 0x21c1b7
+
+[header.args]

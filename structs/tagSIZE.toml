@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.135361Z
+name = "tagSIZE"
+size = 0x8
+
+[members.0x0]
+name = "_cx"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "cy"
+offset = 0x4
+type = "LONG"
+size = 0x4

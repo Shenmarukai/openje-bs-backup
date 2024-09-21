@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameServer"
+size = 0x7108
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x70ee
+
+[members.0x70f0]
+name = "mbr_0x70f0"
+offset = 0x70f0
+type = ""
+size = 0x4
+
+[members.0x70f4]
+name = "mbr_0x70f4"
+offset = 0x70f4
+type = ""
+size = 0x4
+
+[members.0x70f8]
+name = "mbr_0x70f8"
+offset = 0x70f8
+type = ""
+size = 0x4
+
+[members.0x70fc]
+name = "mbr_0x70fc"
+offset = 0x70fc
+type = ""
+size = 0x4
+
+[members.0x7100]
+name = "mbr_0x7100"
+offset = 0x7100
+type = ""
+size = 0x4
+
+[members.0x7104]
+name = "mbr_0x7104"
+offset = 0x7104
+type = ""
+size = 0x4

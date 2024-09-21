@@ -1,0 +1,57 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "Gfx_HeightFog"
+size = 0x64
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x40
+
+[members.0x40]
+name = "mbr_0x40"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "mbr_0x44"
+offset = 0x44
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "mbr_0x4c"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "mbr_0x50"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0x54]
+name = "mbr_0x54"
+offset = 0x54
+type = ""
+size = 0x4
+
+[members.0x58]
+name = "mbr_0x58"
+offset = 0x58
+type = ""
+size = 0x4
+
+[members.0x5c]
+name = "mbr_0x5c"
+offset = 0x5c
+type = ""
+size = 0x4
+
+[members.0x60]
+name = "mbr_0x60"
+offset = 0x60
+type = ""
+size = 0x4

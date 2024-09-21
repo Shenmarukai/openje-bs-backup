@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2214d0
+size = 0x39
+name = "__FF_MSGBANNER"
+
+[header]
+name = "__FF_MSGBANNER"
+addr = 0x2214d0
+
+[header.args]

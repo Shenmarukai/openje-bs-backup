@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21bd2d
+size = 0x1c3
+name = "sub_61BD2D"
+
+[header]
+name = "sub_61BD2D"
+addr = 0x21bd2d
+
+[header.args]

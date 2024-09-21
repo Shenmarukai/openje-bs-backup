@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_cpinfo"
+size = 0x14
+
+[members.0x0]
+name = "MaxCharSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "DefaultChar"
+offset = 0x4
+type = "BYTE[2]"
+size = 0x2
+
+[members.0x6]
+name = "LeadByte"
+offset = 0x6
+type = "BYTE[12]"
+size = 0xc

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2211eb
+size = 0x77
+name = "___isctype_mt"
+
+[header]
+name = "___isctype_mt"
+addr = 0x2211eb
+
+[header.args]

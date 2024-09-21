@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21bf41
+size = 0x49
+name = "__mtinitlocks"
+
+[header]
+name = "__mtinitlocks"
+addr = 0x21bf41
+
+[header.args]

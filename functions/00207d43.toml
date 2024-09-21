@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x207d43
+size = 0xc6
+name = "std::strstreambuf::seekpos(std::fpos<int>_int)"
+
+[header]
+name = "std::strstreambuf::seekpos(std::fpos<int>_int)"
+addr = 0x207d43
+
+[header.args]

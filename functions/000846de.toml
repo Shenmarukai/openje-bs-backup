@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x846de
+size = 0xca
+name = "sub_4846DE"
+
+[header]
+name = "sub_4846DE"
+addr = 0x846de
+
+[header.args]

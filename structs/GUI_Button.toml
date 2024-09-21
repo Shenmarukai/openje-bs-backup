@@ -1,0 +1,69 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "GUI_Button"
+size = 0xd78
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x1c
+
+[members.0xd38]
+name = "mbr_0xd38"
+offset = 0xd38
+type = ""
+size = 0x4
+
+[members.0xd3c]
+name = "mbr_0xd3c"
+offset = 0xd3c
+type = ""
+size = 0x4
+
+[members.0xd40]
+name = "mbr_0xd40"
+offset = 0xd40
+type = ""
+size = 0x4
+
+[members.0xd44]
+name = "mbr_0xd44"
+offset = 0xd44
+type = ""
+size = 0x4
+
+[members.0xd54]
+name = "mbr_0xd54"
+offset = 0xd54
+type = ""
+size = 0x4
+
+[members.0xd58]
+name = "mbr_0xd58"
+offset = 0xd58
+type = ""
+size = 0x4
+
+[members.0xd5c]
+name = "mbr_0xd5c"
+offset = 0xd5c
+type = ""
+size = 0x4
+
+[members.0xd60]
+name = "mbr_0xd60"
+offset = 0xd60
+type = ""
+size = 0x4
+
+[members.0xd70]
+name = "mbr_0xd70"
+offset = 0xd70
+type = ""
+size = 0x4
+
+[members.0xd74]
+name = "mbr_0xd74"
+offset = 0xd74
+type = ""
+size = 0x4

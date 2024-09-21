@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xfa340
+size = 0x7a
+name = "sub_4FA340"
+
+[header]
+name = "sub_4FA340"
+addr = 0xfa340
+
+[header.args]

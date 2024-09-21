@@ -1,0 +1,153 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFX_Wind_VFX_EffectInstance_vftable"
+size = 0x64
+
+[members.0x0]
+name = "virt_meth_0x4e3870"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x4e3980"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x5a9320"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x591690"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x5a9320_4"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x404b70"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x404b70_6"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x549020"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "virt_meth_0x4e1850"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "virt_meth_0x4e1870"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x4e0d70"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x4e3e60"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "virt_meth_0x4080b0"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "virt_meth_0x4e3790"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "virt_meth_0x4e5ec0"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "virt_meth_0x4e18a0"
+offset = 0x3c
+type = ""
+size = 0x4
+
+[members.0x40]
+name = "virt_meth_0x4e0dc0"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "virt_meth_0x549020_17"
+offset = 0x44
+type = ""
+size = 0x4
+
+[members.0x48]
+name = "virt_meth_0x549020_18"
+offset = 0x48
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "virt_meth_0x4e0e20"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "virt_meth_0x404b70_20"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0x54]
+name = "virt_meth_0x404b70_21"
+offset = 0x54
+type = ""
+size = 0x4
+
+[members.0x58]
+name = "virt_meth_0x4e18b0"
+offset = 0x58
+type = ""
+size = 0x4
+
+[members.0x5c]
+name = "virt_meth_0x4e18c0"
+offset = 0x5c
+type = ""
+size = 0x4
+
+[members.0x60]
+name = "virt_meth_0x4e1b80"
+offset = 0x60
+type = ""
+size = 0x4

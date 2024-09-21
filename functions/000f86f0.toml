@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xf86f0
+size = 0x52
+name = "sub_4F86F0"
+
+[header]
+name = "sub_4F86F0"
+addr = 0xf86f0
+
+[header.args]

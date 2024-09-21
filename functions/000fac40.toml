@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xfac40
+size = 0x52
+name = "dtor_0x4fac40"
+
+[header]
+name = "dtor_0x4fac40"
+addr = 0xfac40
+
+[header.args]

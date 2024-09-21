@@ -1,0 +1,63 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_WIN32_FIND_DATAA"
+size = 0x140
+
+[members.0x0]
+name = "dwFileAttributes"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ftCreationTime"
+offset = 0x4
+type = "FILETIME"
+size = 0x8
+
+[members.0xc]
+name = "ftLastAccessTime"
+offset = 0xc
+type = "FILETIME"
+size = 0x8
+
+[members.0x14]
+name = "ftLastWriteTime"
+offset = 0x14
+type = "FILETIME"
+size = 0x8
+
+[members.0x1c]
+name = "nFileSizeHigh"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "nFileSizeLow"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwReserved0"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwReserved1"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "cFileName"
+offset = 0x2c
+type = "CHAR[260]"
+size = 0x104
+
+[members.0x130]
+name = "cAlternateFileName"
+offset = 0x130
+type = "CHAR[14]"
+size = 0xe

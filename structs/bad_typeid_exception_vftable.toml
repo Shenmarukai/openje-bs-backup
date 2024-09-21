@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "bad_typeid_exception_vftable"
+size = 0x8
+
+[members.0x0]
+name = "virt_meth_0x616cad"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "?what@exception@@UBEPBDXZ"
+offset = 0x4
+type = ""
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x12fc30
+size = 0x2cb
+name = "sub_52FC30"
+
+[header]
+name = "sub_52FC30"
+addr = 0x12fc30
+
+[header.args]

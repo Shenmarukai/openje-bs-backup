@@ -1,0 +1,27 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "SS_EngineStringSystem"
+size = 0x178
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x16c
+
+[members.0x16c]
+name = "mbr_0x16c"
+offset = 0x16c
+type = ""
+size = 0x4
+
+[members.0x170]
+name = "mbr_0x170"
+offset = 0x170
+type = ""
+size = 0x4
+
+[members.0x174]
+name = "mbr_0x174"
+offset = 0x174
+type = ""
+size = 0x4

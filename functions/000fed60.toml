@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xfed60
+size = 0x154
+name = "sub_4FED60"
+
+[header]
+name = "sub_4FED60"
+addr = 0xfed60
+
+[header.args]

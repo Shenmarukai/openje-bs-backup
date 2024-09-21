@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.063371Z
+name = "Gfx_RS_B_LM"
+size = 0x1c
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "mbr_0x4"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "mbr_0x8"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "mbr_0xc"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "mbr_0x10"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "mbr_0x14"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "mbr_0x18"
+offset = 0x18
+type = ""
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "std_messages_char_"
+size = 0x8
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "mbr_0x4"
+offset = 0x4
+type = ""
+size = 0x4

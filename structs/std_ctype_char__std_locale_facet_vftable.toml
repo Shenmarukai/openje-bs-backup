@@ -1,0 +1,57 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "std_ctype_char__std_locale_facet_vftable"
+size = 0x24
+
+[members.0x0]
+name = "virt_meth_0x498480"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x498310"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x4982f0"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x498360"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x498340"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x4983a0"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "?do_widen@?$ctype@D@std@@MBEDD@Z"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x4983e0"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "?do_narrow@?$ctype@D@std@@MBEDDD@Z"
+offset = 0x20
+type = ""
+size = 0x4

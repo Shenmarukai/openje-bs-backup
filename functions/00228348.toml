@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x228348
+size = 0x22
+name = "_toupper"
+
+[header]
+name = "_toupper"
+addr = 0x228348
+
+[header.args]

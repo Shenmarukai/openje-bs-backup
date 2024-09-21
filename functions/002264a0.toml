@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2264a0
+size = 0x19
+name = "__CIpow_pentium4"
+
+[header]
+name = "__CIpow_pentium4"
+addr = 0x2264a0
+
+[header.args]

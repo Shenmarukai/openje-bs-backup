@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2f770
+size = 0x262
+name = "sub_42F770"
+
+[header]
+name = "sub_42F770"
+addr = 0x2f770
+
+[header.args]

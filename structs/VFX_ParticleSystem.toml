@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFX_ParticleSystem"
+size = 0x5d5
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4bc]
+name = "parent_4bc"
+offset = 0x4bc
+type = ""
+size = 0x119

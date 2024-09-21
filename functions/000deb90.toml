@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xdeb90
+size = 0x1c4
+name = "sub_4DEB90"
+
+[header]
+name = "sub_4DEB90"
+addr = 0xdeb90
+
+[header.args]

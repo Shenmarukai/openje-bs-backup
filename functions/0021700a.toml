@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21700a
+size = 0x12
+name = "_atexit"
+
+[header]
+name = "_atexit"
+addr = 0x21700a
+
+[header.args]

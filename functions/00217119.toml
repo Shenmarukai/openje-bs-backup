@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x217119
+size = 0x69
+name = "__stricmp"
+
+[header]
+name = "__stricmp"
+addr = 0x217119
+
+[header.args]

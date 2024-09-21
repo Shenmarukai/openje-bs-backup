@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2242c9
+size = 0xe3
+name = "_crtGetLocaleInfoA@16"
+
+[header]
+name = "_crtGetLocaleInfoA@16"
+addr = 0x2242c9
+
+[header.args]

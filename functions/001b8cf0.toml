@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1b8cf0
+size = 0x6
+name = "timeGetTime"
+
+[header]
+name = "timeGetTime"
+addr = 0x1b8cf0
+
+[header.args]

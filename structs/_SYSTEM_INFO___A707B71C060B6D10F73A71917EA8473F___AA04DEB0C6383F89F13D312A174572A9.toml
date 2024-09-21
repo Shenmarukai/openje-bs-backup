@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F::$AA04DEB0C6383F89F13D312A174572A9"
+size = 0x4
+
+[members.0x0]
+name = "wProcessorArchitecture"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wReserved"
+offset = 0x2
+type = "WORD"
+size = 0x2

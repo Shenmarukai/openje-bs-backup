@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21702a
+size = 0xa
+name = "__CIfmod"
+
+[header]
+name = "__CIfmod"
+addr = 0x21702a
+
+[header.args]

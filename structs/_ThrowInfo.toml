@@ -1,0 +1,27 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_ThrowInfo"
+size = 0x10
+
+[members.0x0]
+name = "attributes"
+offset = 0x0
+type = "unsigned int"
+size = 0x4
+
+[members.0x4]
+name = "pmfnUnwind"
+offset = 0x4
+type = "PMFN"
+size = 0x4
+
+[members.0x8]
+name = "pForwardCompat"
+offset = 0x8
+type = "int (__cdecl *)()"
+size = 0x4
+
+[members.0xc]
+name = "pCatchableTypeArray"
+offset = 0xc
+type = "CatchableTypeArray *"
+size = 0x4

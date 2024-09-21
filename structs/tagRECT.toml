@@ -1,0 +1,27 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tagRECT"
+size = 0x10
+
+[members.0x0]
+name = "left"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "top"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "right"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "bottom"
+offset = 0xc
+type = "LONG"
+size = 0x4

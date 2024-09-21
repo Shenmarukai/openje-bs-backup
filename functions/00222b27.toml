@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x222b27
+size = 0xd1
+name = "_ceil_0"
+
+[header]
+name = "_ceil_0"
+addr = 0x222b27
+
+[header.args]

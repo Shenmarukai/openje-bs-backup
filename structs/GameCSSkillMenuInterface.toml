@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameCSSkillMenuInterface"
+size = 0xd89
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0xd50]
+name = "parent_d50"
+offset = 0xd50
+type = ""
+size = 0x39

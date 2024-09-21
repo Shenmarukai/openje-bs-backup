@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x221acd
+size = 0x1fe
+name = "__ioinit"
+
+[header]
+name = "__ioinit"
+addr = 0x221acd
+
+[header.args]

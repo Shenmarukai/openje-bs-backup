@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xc6ba0
+size = 0x7
+name = "Concurrency::details::UMSThreadVirtualProcessor::GetDefaultDestination(void)"
+
+[header]
+name = "Concurrency::details::UMSThreadVirtualProcessor::GetDefaultDestination(void)"
+addr = 0xc6ba0
+
+[header.args]

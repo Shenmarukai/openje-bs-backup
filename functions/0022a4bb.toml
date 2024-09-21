@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22a4bb
+size = 0x81
+name = "_getenv"
+
+[header]
+name = "_getenv"
+addr = 0x22a4bb
+
+[header.args]

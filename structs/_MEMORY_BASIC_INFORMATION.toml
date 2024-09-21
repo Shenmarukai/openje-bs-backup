@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_MEMORY_BASIC_INFORMATION"
+size = 0x1c
+
+[members.0x0]
+name = "BaseAddress"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "AllocationBase"
+offset = 0x4
+type = "PVOID"
+size = 0x4
+
+[members.0x8]
+name = "AllocationProtect"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "RegionSize"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "State"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Protect"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Type"
+offset = 0x18
+type = "DWORD"
+size = 0x4

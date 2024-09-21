@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21879b
+size = 0x15a
+name = "_setlocale"
+
+[header]
+name = "_setlocale"
+addr = 0x21879b
+
+[header.args]

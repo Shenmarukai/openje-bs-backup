@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFX_VEG"
+size = 0x3c
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x34
+
+[members.0x34]
+name = "mbr_0x34"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "mbr_0x38"
+offset = 0x38
+type = ""
+size = 0x4

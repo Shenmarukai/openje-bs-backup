@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21776d
+size = 0x15
+name = "__finite"
+
+[header]
+name = "__finite"
+addr = 0x21776d
+
+[header.args]

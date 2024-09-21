@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x222a9b
+size = 0x35
+name = "_has_osfxsr_set"
+
+[header]
+name = "_has_osfxsr_set"
+addr = 0x222a9b
+
+[header.args]

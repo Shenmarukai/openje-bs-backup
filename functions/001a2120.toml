@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x1a2120
+size = 0x78
+name = "filebuf::~filebuf(void)"
+
+[header]
+name = "filebuf::~filebuf(void)"
+addr = 0x1a2120
+
+[header.args]

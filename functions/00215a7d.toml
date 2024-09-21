@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x215a7d
+size = 0x29
+name = "__Getwctypes"
+
+[header]
+name = "__Getwctypes"
+addr = 0x215a7d
+
+[header.args]

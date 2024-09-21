@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2162e5
+size = 0x7
+name = "__purecall_6162e5"
+
+[header]
+name = "__purecall_6162e5"
+addr = 0x2162e5
+
+[header.args]

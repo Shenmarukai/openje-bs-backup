@@ -1,0 +1,33 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "Gfx_BaseObject"
+size = 0x40
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "mbr_0x4"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "mbr_0x34"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "mbr_0x38"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "mbr_0x3c"
+offset = 0x3c
+type = ""
+size = 0x4

@@ -1,0 +1,69 @@
+last_change = 2024-09-20T21:52:21.020179Z
+name = "BITMAPINFOHEADER"
+size = 0x28
+
+[members.0x0]
+name = "biSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "biWidth"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "biHeight"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "biPlanes"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "biBitCount"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "biCompression"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "biSizeImage"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "biXPelsPerMeter"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "biYPelsPerMeter"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "biClrUsed"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "biClrImportant"
+offset = 0x24
+type = "DWORD"
+size = 0x4

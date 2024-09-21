@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x85d11
+size = 0x64
+name = "sub_485D11"
+
+[header]
+name = "sub_485D11"
+addr = 0x85d11
+
+[header.args]

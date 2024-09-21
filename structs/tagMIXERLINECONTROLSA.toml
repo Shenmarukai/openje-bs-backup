@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tagMIXERLINECONTROLSA"
+size = 0x18
+
+[members.0x0]
+name = "cbStruct"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwLineID"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "anonymous_0"
+offset = 0x8
+type = "union tagMIXERLINECONTROLSA::$DC43C2837E8C20184C3137B308FBE3E1"
+size = 0x4
+
+[members.0xc]
+name = "cControls"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cbmxctrl"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pamxctrl"
+offset = 0x14
+type = "LPMIXERCONTROLA"
+size = 0x4

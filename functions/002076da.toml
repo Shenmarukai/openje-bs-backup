@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2076da
+size = 0xb2
+name = "sub_6076DA"
+
+[header]
+name = "sub_6076DA"
+addr = 0x2076da
+
+[header.args]

@@ -1,0 +1,51 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "POIWaypoint"
+size = 0xe80
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0xe64
+
+[members.0xe64]
+name = "mbr_0xe64"
+offset = 0xe64
+type = ""
+size = 0x4
+
+[members.0xe68]
+name = "mbr_0xe68"
+offset = 0xe68
+type = ""
+size = 0x4
+
+[members.0xe6c]
+name = "mbr_0xe6c"
+offset = 0xe6c
+type = ""
+size = 0x4
+
+[members.0xe70]
+name = "mbr_0xe70"
+offset = 0xe70
+type = ""
+size = 0x4
+
+[members.0xe74]
+name = "mbr_0xe74"
+offset = 0xe74
+type = ""
+size = 0x4
+
+[members.0xe78]
+name = "mbr_0xe78"
+offset = 0xe78
+type = ""
+size = 0x4
+
+[members.0xe7c]
+name = "mbr_0xe7c"
+offset = 0xe7c
+type = ""
+size = 0x4

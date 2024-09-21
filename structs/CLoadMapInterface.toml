@@ -1,0 +1,129 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "CLoadMapInterface"
+size = 0x1b8
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x31
+
+[members.0x34]
+name = "mbr_0x34"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "mbr_0x38"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "mbr_0x3c"
+offset = 0x3c
+type = ""
+size = 0x4
+
+[members.0x40]
+name = "mbr_0x40"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "mbr_0x44"
+offset = 0x44
+type = ""
+size = 0x4
+
+[members.0x48]
+name = "mbr_0x48"
+offset = 0x48
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "mbr_0x4c"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "mbr_0x50"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0xfc]
+name = "mbr_0xfc"
+offset = 0xfc
+type = ""
+size = 0x4
+
+[members.0x100]
+name = "mbr_0x100"
+offset = 0x100
+type = ""
+size = 0x4
+
+[members.0x138]
+name = "mbr_0x138"
+offset = 0x138
+type = ""
+size = 0x4
+
+[members.0x13c]
+name = "mbr_0x13c"
+offset = 0x13c
+type = ""
+size = 0x4
+
+[members.0x140]
+name = "mbr_0x140"
+offset = 0x140
+type = ""
+size = 0x4
+
+[members.0x150]
+name = "mbr_0x150"
+offset = 0x150
+type = ""
+size = 0x4
+
+[members.0x1a0]
+name = "mbr_0x1a0"
+offset = 0x1a0
+type = ""
+size = 0x4
+
+[members.0x1a4]
+name = "mbr_0x1a4"
+offset = 0x1a4
+type = ""
+size = 0x4
+
+[members.0x1a8]
+name = "mbr_0x1a8"
+offset = 0x1a8
+type = ""
+size = 0x4
+
+[members.0x1ac]
+name = "mbr_0x1ac"
+offset = 0x1ac
+type = ""
+size = 0x4
+
+[members.0x1b0]
+name = "mbr_0x1b0"
+offset = 0x1b0
+type = ""
+size = 0x4
+
+[members.0x1b4]
+name = "mbr_0x1b4"
+offset = 0x1b4
+type = ""
+size = 0x4

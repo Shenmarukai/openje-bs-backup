@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21f210
+size = 0x3b
+name = "__SEH_prolog"
+
+[header]
+name = "__SEH_prolog"
+addr = 0x21f210
+
+[header.args]

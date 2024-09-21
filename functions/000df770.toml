@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xdf770
+size = 0x140
+name = "sub_4DF770"
+
+[header]
+name = "sub_4DF770"
+addr = 0xdf770
+
+[header.args]

@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.020179Z
+name = "CFloatingTextInterface"
+size = 0x37581
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "mbr_0x4"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0xfb8]
+name = "mbr_0xfb8"
+offset = 0xfb8
+type = ""
+size = 0x4
+
+[members.0xfc8]
+name = "mbr_0xfc8"
+offset = 0xfc8
+type = ""
+size = 0x4
+
+[members.0xfcc]
+name = "mbr_0xfcc"
+offset = 0xfcc
+type = ""
+size = 0x4
+
+[members.0x37550]
+name = "parent_37550"
+offset = 0x37550
+type = ""
+size = 0x31

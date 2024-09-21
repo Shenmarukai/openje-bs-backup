@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2080d5
+size = 0x88
+name = "sub_6080D5"
+
+[header]
+name = "sub_6080D5"
+addr = 0x2080d5
+
+[header.args]

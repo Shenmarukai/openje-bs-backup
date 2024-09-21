@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22a6fa
+size = 0x294
+name = "sub_62A6FA"
+
+[header]
+name = "sub_62A6FA"
+addr = 0x22a6fa
+
+[header.args]

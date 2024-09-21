@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x97930
+size = 0x55
+name = "meth_0x497930"
+
+[header]
+name = "meth_0x497930"
+addr = 0x97930
+
+[header.args]

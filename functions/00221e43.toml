@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x221e43
+size = 0xba
+name = "__decomp"
+
+[header]
+name = "__decomp"
+addr = 0x221e43
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x218ec8
+size = 0x8f
+name = "__fseek_lk"
+
+[header]
+name = "__fseek_lk"
+addr = 0x218ec8
+
+[header.args]

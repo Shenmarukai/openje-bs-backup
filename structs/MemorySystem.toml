@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.063371Z
+name = "MemorySystem"
+size = 0x10
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "mbr_0xc"
+offset = 0xc
+type = ""
+size = 0x4

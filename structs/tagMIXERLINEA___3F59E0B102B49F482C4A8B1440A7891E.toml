@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tagMIXERLINEA::$3F59E0B102B49F482C4A8B1440A7891E"
+size = 0x30
+
+[members.0x0]
+name = "dwType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwDeviceID"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "wMid"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "wPid"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "vDriverVersion"
+offset = 0xc
+type = "MMVERSION"
+size = 0x4
+
+[members.0x10]
+name = "szPname"
+offset = 0x10
+type = "CHAR[32]"
+size = 0x20

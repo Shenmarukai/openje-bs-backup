@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2248bd
+size = 0x55
+name = "_GetLcidFromLanguage"
+
+[header]
+name = "_GetLcidFromLanguage"
+addr = 0x2248bd
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21ef19
+size = 0xa
+name = "__rttosnpopde"
+
+[header]
+name = "__rttosnpopde"
+addr = 0x21ef19
+
+[header.args]

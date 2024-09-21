@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21431a
+size = 0x128
+name = "virt_meth_0x61431a"
+
+[header]
+name = "virt_meth_0x61431a"
+addr = 0x21431a
+
+[header.args]

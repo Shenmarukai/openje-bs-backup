@@ -1,0 +1,99 @@
+last_change = 2024-09-20T21:52:21.106450Z
+name = "cls_0x56d380"
+size = 0x1b1
+
+[members.0xb4]
+name = "mbr_0xb4"
+offset = 0xb4
+type = ""
+size = 0x4
+
+[members.0x178]
+name = "mbr_0x178"
+offset = 0x178
+type = ""
+size = 0x1
+
+[members.0x17c]
+name = "mbr_0x17c"
+offset = 0x17c
+type = ""
+size = 0x4
+
+[members.0x180]
+name = "mbr_0x180"
+offset = 0x180
+type = ""
+size = 0x4
+
+[members.0x184]
+name = "mbr_0x184"
+offset = 0x184
+type = ""
+size = 0x4
+
+[members.0x188]
+name = "mbr_0x188"
+offset = 0x188
+type = ""
+size = 0x4
+
+[members.0x18c]
+name = "mbr_0x18c"
+offset = 0x18c
+type = ""
+size = 0x4
+
+[members.0x190]
+name = "mbr_0x190"
+offset = 0x190
+type = ""
+size = 0x4
+
+[members.0x194]
+name = "mbr_0x194"
+offset = 0x194
+type = ""
+size = 0x4
+
+[members.0x198]
+name = "mbr_0x198"
+offset = 0x198
+type = ""
+size = 0x4
+
+[members.0x19c]
+name = "mbr_0x19c"
+offset = 0x19c
+type = ""
+size = 0x4
+
+[members.0x1a0]
+name = "mbr_0x1a0"
+offset = 0x1a0
+type = ""
+size = 0x4
+
+[members.0x1a4]
+name = "mbr_0x1a4"
+offset = 0x1a4
+type = ""
+size = 0x4
+
+[members.0x1a8]
+name = "mbr_0x1a8"
+offset = 0x1a8
+type = ""
+size = 0x4
+
+[members.0x1ac]
+name = "mbr_0x1ac"
+offset = 0x1ac
+type = ""
+size = 0x4
+
+[members.0x1b0]
+name = "mbr_0x1b0"
+offset = 0x1b0
+type = ""
+size = 0x1

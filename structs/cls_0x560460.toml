@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.106450Z
+name = "cls_0x560460"
+size = 0x4c
+
+[members.0x3c]
+name = "mbr_0x3c"
+offset = 0x3c
+type = ""
+size = 0x4
+
+[members.0x40]
+name = "mbr_0x40"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x48]
+name = "mbr_0x48"
+offset = 0x48
+type = ""
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x205e3f
+size = 0xb5
+name = "std::locale::_Locimp::_Addfac(std::locale::facet___uint)"
+
+[header]
+name = "std::locale::_Locimp::_Addfac(std::locale::facet___uint)"
+addr = 0x205e3f
+
+[header.args]

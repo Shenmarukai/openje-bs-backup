@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "sockaddr"
+size = 0x10
+
+[members.0x0]
+name = "sa_family"
+offset = 0x0
+type = "ADDRESS_FAMILY"
+size = 0x2
+
+[members.0x2]
+name = "sa_data"
+offset = 0x2
+type = "CHAR[14]"
+size = 0xe

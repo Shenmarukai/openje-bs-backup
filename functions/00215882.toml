@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x215882
+size = 0x118
+name = "__Mbrtowc_lk"
+
+[header]
+name = "__Mbrtowc_lk"
+addr = 0x215882
+
+[header.args]

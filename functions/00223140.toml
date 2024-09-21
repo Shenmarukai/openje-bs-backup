@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x223140
+size = 0x2df
+name = "___sbh_resize_block"
+
+[header]
+name = "___sbh_resize_block"
+addr = 0x223140
+
+[header.args]

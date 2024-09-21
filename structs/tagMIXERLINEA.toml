@@ -1,0 +1,81 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tagMIXERLINEA"
+size = 0xa8
+
+[members.0x0]
+name = "cbStruct"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwDestination"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwSource"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwLineID"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "fdwLine"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwUser"
+offset = 0x14
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x18]
+name = "dwComponentType"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "cChannels"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "cConnections"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "cControls"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "szShortName"
+offset = 0x28
+type = "CHAR[16]"
+size = 0x10
+
+[members.0x38]
+name = "szName"
+offset = 0x38
+type = "CHAR[64]"
+size = 0x40
+
+[members.0x78]
+name = "Target"
+offset = 0x78
+type = "struct tagMIXERLINEA::$3F59E0B102B49F482C4A8B1440A7891E"
+size = 0x30

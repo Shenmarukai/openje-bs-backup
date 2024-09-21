@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x229ce3
+size = 0x2e7
+name = "__tsopen_lk"
+
+[header]
+name = "__tsopen_lk"
+addr = 0x229ce3
+
+[header.args]

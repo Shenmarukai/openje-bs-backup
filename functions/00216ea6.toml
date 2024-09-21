@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x216ea6
+size = 0x22
+name = "_rand"
+
+[header]
+name = "_rand"
+addr = 0x216ea6
+
+[header.args]

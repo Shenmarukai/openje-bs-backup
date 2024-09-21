@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "CSoundFile_vftable"
+size = 0x8
+
+[members.0x0]
+name = "virt_meth_0x4c8540"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "__purecall"
+offset = 0x4
+type = ""
+size = 0x4

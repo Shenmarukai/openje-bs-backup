@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tMIXERCONTROLDETAILS::$6A354DB64043DD4C59D209C2C03EE69F"
+size = 0x4
+
+[members.0x0]
+name = "hwndOwner"
+offset = 0x0
+type = "HWND"
+size = 0x4
+
+[members.0x1]
+name = "cMultipleItems"
+offset = 0x1
+type = "DWORD"
+size = 0x4

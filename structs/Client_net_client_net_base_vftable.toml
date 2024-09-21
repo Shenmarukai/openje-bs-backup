@@ -1,0 +1,339 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "Client_net_client_net_base_vftable"
+size = 0xe0
+
+[members.0x0]
+name = "??_Gstdiobuf@@UAEPAXI@Z"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x58f010"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x588d90"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x59c320"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x59c330"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x55bdb0"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x59d180"
+offset = 0x18
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "virt_meth_0x59c440"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "virt_meth_0x59c4d0"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "virt_meth_0x587ee0"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "virt_meth_0x59d300"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "virt_meth_0x587770"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "j_virt_meth_0x59c380"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "virt_meth_0x59c8a0"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "virt_meth_0x587b00"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "virt_meth_0x5a9320"
+offset = 0x3c
+type = ""
+size = 0x4
+
+[members.0x40]
+name = "virt_meth_0x5a9320_16"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "virt_meth_0x5a9320_17"
+offset = 0x44
+type = ""
+size = 0x4
+
+[members.0x48]
+name = "virt_meth_0x5a9320_18"
+offset = 0x48
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "virt_meth_0x5a9320_19"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "virt_meth_0x5a9320_20"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0x54]
+name = "virt_meth_0x5880a0"
+offset = 0x54
+type = ""
+size = 0x4
+
+[members.0x58]
+name = "virt_meth_0x409bb0"
+offset = 0x58
+type = ""
+size = 0x4
+
+[members.0x5c]
+name = "virt_meth_0x409bb0_23"
+offset = 0x5c
+type = ""
+size = 0x4
+
+[members.0x60]
+name = "virt_meth_0x409bb0_24"
+offset = 0x60
+type = ""
+size = 0x4
+
+[members.0x64]
+name = "virt_meth_0x58a620"
+offset = 0x64
+type = ""
+size = 0x4
+
+[members.0x68]
+name = "virt_meth_0x5880c0"
+offset = 0x68
+type = ""
+size = 0x4
+
+[members.0x6c]
+name = "virt_meth_0x588170"
+offset = 0x6c
+type = ""
+size = 0x4
+
+[members.0x70]
+name = "virt_meth_0x58c660"
+offset = 0x70
+type = ""
+size = 0x4
+
+[members.0x74]
+name = "virt_meth_0x588190"
+offset = 0x74
+type = ""
+size = 0x4
+
+[members.0x78]
+name = "virt_meth_0x404b70"
+offset = 0x78
+type = ""
+size = 0x4
+
+[members.0x7c]
+name = "virt_meth_0x408090"
+offset = 0x7c
+type = ""
+size = 0x4
+
+[members.0x80]
+name = "virt_meth_0x588f50"
+offset = 0x80
+type = ""
+size = 0x4
+
+[members.0x84]
+name = "virt_meth_0x587b10"
+offset = 0x84
+type = ""
+size = 0x4
+
+[members.0x88]
+name = "virt_meth_0x587b70"
+offset = 0x88
+type = ""
+size = 0x4
+
+[members.0x8c]
+name = "virt_meth_0x587bd0"
+offset = 0x8c
+type = ""
+size = 0x4
+
+[members.0x90]
+name = "virt_meth_0x587c30"
+offset = 0x90
+type = ""
+size = 0x4
+
+[members.0x94]
+name = "virt_meth_0x587c90"
+offset = 0x94
+type = ""
+size = 0x4
+
+[members.0x98]
+name = "virt_meth_0x587d00"
+offset = 0x98
+type = ""
+size = 0x4
+
+[members.0x9c]
+name = "virt_meth_0x58bd80"
+offset = 0x9c
+type = ""
+size = 0x4
+
+[members.0xa0]
+name = "virt_meth_0x58be40"
+offset = 0xa0
+type = ""
+size = 0x4
+
+[members.0xa4]
+name = "virt_meth_0x58bf00"
+offset = 0xa4
+type = ""
+size = 0x4
+
+[members.0xa8]
+name = "virt_meth_0x58bfc0"
+offset = 0xa8
+type = ""
+size = 0x4
+
+[members.0xac]
+name = "virt_meth_0x58c080"
+offset = 0xac
+type = ""
+size = 0x4
+
+[members.0xb0]
+name = "virt_meth_0x587e80"
+offset = 0xb0
+type = ""
+size = 0x4
+
+[members.0xb4]
+name = "virt_meth_0x587d60"
+offset = 0xb4
+type = ""
+size = 0x4
+
+[members.0xb8]
+name = "virt_meth_0x587dc0"
+offset = 0xb8
+type = ""
+size = 0x4
+
+[members.0xbc]
+name = "virt_meth_0x58c140"
+offset = 0xbc
+type = ""
+size = 0x4
+
+[members.0xc0]
+name = "virt_meth_0x58c200"
+offset = 0xc0
+type = ""
+size = 0x4
+
+[members.0xc4]
+name = "virt_meth_0x587e20"
+offset = 0xc4
+type = ""
+size = 0x4
+
+[members.0xc8]
+name = "virt_meth_0x58a4a0"
+offset = 0xc8
+type = ""
+size = 0x4
+
+[members.0xcc]
+name = "virt_meth_0x58c380"
+offset = 0xcc
+type = ""
+size = 0x4
+
+[members.0xd0]
+name = "virt_meth_0x588fe0"
+offset = 0xd0
+type = ""
+size = 0x4
+
+[members.0xd4]
+name = "virt_meth_0x58ab80"
+offset = 0xd4
+type = ""
+size = 0x4
+
+[members.0xd8]
+name = "virt_meth_0x588220"
+offset = 0xd8
+type = ""
+size = 0x4
+
+[members.0xdc]
+name = "virt_meth_0x58d9a0"
+offset = 0xdc
+type = ""
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFX_Sound"
+size = 0x208
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0xc4]
+name = "parent_c4"
+offset = 0xc4
+type = ""
+size = 0x144

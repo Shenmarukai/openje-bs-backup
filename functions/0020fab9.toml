@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x20fab9
+size = 0x3a
+name = "ctor_0x60fab9"
+
+[header]
+name = "ctor_0x60fab9"
+addr = 0x20fab9
+
+[header.args]

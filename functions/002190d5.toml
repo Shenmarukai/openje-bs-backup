@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2190d5
+size = 0xdc
+name = "_setvbuf"
+
+[header]
+name = "_setvbuf"
+addr = 0x2190d5
+
+[header.args]

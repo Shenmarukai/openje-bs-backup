@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFXEFFECTTYPE_LIGHT_Struct"
+size = 0xfe
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x80]
+name = "cls_0x4d8d70_0x80"
+offset = 0x80
+type = ""
+size = 0x38
+
+[members.0xc6]
+name = "cls_0x4d8d70_0xc6"
+offset = 0xc6
+type = ""
+size = 0x38

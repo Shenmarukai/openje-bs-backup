@@ -1,0 +1,57 @@
+last_change = 2024-09-20T21:52:21.106450Z
+name = "cls_0x5aba20"
+size = 0x4104
+
+[members.0x40dc]
+name = "mbr_0x40dc"
+offset = 0x40dc
+type = ""
+size = 0x4
+
+[members.0x40e4]
+name = "mbr_0x40e4"
+offset = 0x40e4
+type = ""
+size = 0x4
+
+[members.0x40e8]
+name = "mbr_0x40e8"
+offset = 0x40e8
+type = ""
+size = 0x4
+
+[members.0x40ec]
+name = "mbr_0x40ec"
+offset = 0x40ec
+type = ""
+size = 0x4
+
+[members.0x40f0]
+name = "mbr_0x40f0"
+offset = 0x40f0
+type = ""
+size = 0x4
+
+[members.0x40f4]
+name = "mbr_0x40f4"
+offset = 0x40f4
+type = ""
+size = 0x4
+
+[members.0x40f8]
+name = "mbr_0x40f8"
+offset = 0x40f8
+type = ""
+size = 0x4
+
+[members.0x40fc]
+name = "mbr_0x40fc"
+offset = 0x40fc
+type = ""
+size = 0x4
+
+[members.0x4100]
+name = "mbr_0x4100"
+offset = 0x4100
+type = ""
+size = 0x4

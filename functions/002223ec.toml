@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2223ec
+size = 0x2d
+name = "__errcode"
+
+[header]
+name = "__errcode"
+addr = 0x2223ec
+
+[header.args]

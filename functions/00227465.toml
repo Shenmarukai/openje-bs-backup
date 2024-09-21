@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x227465
+size = 0x9b
+name = "__fcloseall"
+
+[header]
+name = "__fcloseall"
+addr = 0x227465
+
+[header.args]

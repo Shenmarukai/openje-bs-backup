@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x205865
+size = 0x39
+name = "std::locale::facet::_Register(void)"
+
+[header]
+name = "std::locale::facet::_Register(void)"
+addr = 0x205865
+
+[header.args]

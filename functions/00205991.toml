@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x205991
+size = 0x50
+name = "std::locale::_Locimp::_Locimp(bool)"
+
+[header]
+name = "std::locale::_Locimp::_Locimp(bool)"
+addr = 0x205991
+
+[header.args]

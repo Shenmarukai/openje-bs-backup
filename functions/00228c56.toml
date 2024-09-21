@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x228c56
+size = 0x32
+name = "__ZeroTail"
+
+[header]
+name = "__ZeroTail"
+addr = 0x228c56
+
+[header.args]

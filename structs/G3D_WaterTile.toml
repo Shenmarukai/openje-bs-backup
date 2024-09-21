@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "G3D_WaterTile"
+size = 0xb0
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x9c
+
+[members.0x9c]
+name = "mbr_0x9c"
+offset = 0x9c
+type = ""
+size = 0x4
+
+[members.0xa0]
+name = "mbr_0xa0"
+offset = 0xa0
+type = ""
+size = 0x4
+
+[members.0xa4]
+name = "mbr_0xa4"
+offset = 0xa4
+type = ""
+size = 0x4
+
+[members.0xa8]
+name = "mbr_0xa8"
+offset = 0xa8
+type = ""
+size = 0x4
+
+[members.0xac]
+name = "mbr_0xac"
+offset = 0xac
+type = ""
+size = 0x4

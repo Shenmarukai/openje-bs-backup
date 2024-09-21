@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2057ed
+size = 0x35
+name = "std::locale::_Getfacet(uint)"
+
+[header]
+name = "std::locale::_Getfacet(uint)"
+addr = 0x2057ed
+
+[header.args]

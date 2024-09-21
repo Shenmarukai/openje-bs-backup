@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21a460
+size = 0x54
+name = "__CIpow"
+
+[header]
+name = "__CIpow"
+addr = 0x21a460
+
+[header.args]

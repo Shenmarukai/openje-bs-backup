@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x264d0
+size = 0x3d
+name = "sub_4264D0"
+
+[header]
+name = "sub_4264D0"
+addr = 0x264d0
+
+[header.args]

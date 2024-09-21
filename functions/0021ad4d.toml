@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21ad4d
+size = 0xad
+name = "__mbsstr"
+
+[header]
+name = "__mbsstr"
+addr = 0x21ad4d
+
+[header.args]

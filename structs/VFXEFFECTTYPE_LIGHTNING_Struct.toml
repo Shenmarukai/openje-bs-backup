@@ -1,0 +1,27 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "VFXEFFECTTYPE_LIGHTNING_Struct"
+size = 0x150
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x8c]
+name = "parent_8c"
+offset = 0x8c
+type = ""
+size = 0x4
+
+[members.0xb4]
+name = "parent_b4"
+offset = 0xb4
+type = ""
+size = 0x38
+
+[members.0x118]
+name = "cls_0x4d8d70_0x118"
+offset = 0x118
+type = ""
+size = 0x38

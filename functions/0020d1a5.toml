@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x20d1a5
+size = 0x23
+name = "std::istreambuf_iterator<ushort_std::char_traits<ushort>>::_Inc(void)"
+
+[header]
+name = "std::istreambuf_iterator<ushort_std::char_traits<ushort>>::_Inc(void)"
+addr = 0x20d1a5
+
+[header.args]

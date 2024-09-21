@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "std_money_put_wchar_t_class_std_ostreambuf_iterator_wchar_t_struct_std_char_traits_wchar_t__std_locale_facet_vftable"
+size = 0xc
+
+[members.0x0]
+name = "virt_meth_0x612bd6"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x610dc7"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x610733"
+offset = 0x8
+type = ""
+size = 0x4

@@ -1,0 +1,111 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_STARTUPINFOA"
+size = 0x44
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpReserved"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpDesktop"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "lpTitle"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "dwX"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwY"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwXSize"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwYSize"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwXCountChars"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwYCountChars"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwFillAttribute"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwFlags"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "wShowWindow"
+offset = 0x30
+type = "WORD"
+size = 0x2
+
+[members.0x32]
+name = "cbReserved2"
+offset = 0x32
+type = "WORD"
+size = 0x2
+
+[members.0x34]
+name = "lpReserved2"
+offset = 0x34
+type = "LPBYTE"
+size = 0x4
+
+[members.0x38]
+name = "hStdInput"
+offset = 0x38
+type = "HANDLE"
+size = 0x4
+
+[members.0x3c]
+name = "hStdOutput"
+offset = 0x3c
+type = "HANDLE"
+size = 0x4
+
+[members.0x40]
+name = "hStdError"
+offset = 0x40
+type = "HANDLE"
+size = 0x4

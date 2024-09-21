@@ -1,0 +1,51 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "SYSTEMTIME"
+size = 0x10
+
+[members.0x0]
+name = "wYear"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wMonth"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "wDayOfWeek"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "wDay"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "wHour"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "wMinute"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "wSecond"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "wMilliseconds"
+offset = 0xe
+type = "WORD"
+size = 0x2

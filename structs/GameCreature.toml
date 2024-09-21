@@ -1,0 +1,117 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameCreature"
+size = 0x800
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x47c
+
+[members.0x6f0]
+name = "mbr_0x6f0"
+offset = 0x6f0
+type = ""
+size = 0x4
+
+[members.0x6f4]
+name = "mbr_0x6f4"
+offset = 0x6f4
+type = ""
+size = 0x4
+
+[members.0x6f8]
+name = "mbr_0x6f8"
+offset = 0x6f8
+type = ""
+size = 0x4
+
+[members.0x6fc]
+name = "mbr_0x6fc"
+offset = 0x6fc
+type = ""
+size = 0x4
+
+[members.0x700]
+name = "mbr_0x700"
+offset = 0x700
+type = ""
+size = 0x4
+
+[members.0x704]
+name = "mbr_0x704"
+offset = 0x704
+type = ""
+size = 0x4
+
+[members.0x708]
+name = "mbr_0x708"
+offset = 0x708
+type = ""
+size = 0x4
+
+[members.0x70c]
+name = "mbr_0x70c"
+offset = 0x70c
+type = ""
+size = 0x4
+
+[members.0x710]
+name = "mbr_0x710"
+offset = 0x710
+type = ""
+size = 0x4
+
+[members.0x730]
+name = "mbr_0x730"
+offset = 0x730
+type = ""
+size = 0x4
+
+[members.0x748]
+name = "mbr_0x748"
+offset = 0x748
+type = ""
+size = 0x4
+
+[members.0x7b0]
+name = "mbr_0x7b0"
+offset = 0x7b0
+type = ""
+size = 0x4
+
+[members.0x7c8]
+name = "mbr_0x7c8"
+offset = 0x7c8
+type = ""
+size = 0x4
+
+[members.0x7ec]
+name = "mbr_0x7ec"
+offset = 0x7ec
+type = ""
+size = 0x4
+
+[members.0x7f0]
+name = "mbr_0x7f0"
+offset = 0x7f0
+type = ""
+size = 0x4
+
+[members.0x7f4]
+name = "mbr_0x7f4"
+offset = 0x7f4
+type = ""
+size = 0x4
+
+[members.0x7f8]
+name = "mbr_0x7f8"
+offset = 0x7f8
+type = ""
+size = 0x4
+
+[members.0x7fc]
+name = "mbr_0x7fc"
+offset = 0x7fc
+type = ""
+size = 0x4

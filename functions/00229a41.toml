@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x229a41
+size = 0x7f
+name = "__free_osfhnd"
+
+[header]
+name = "__free_osfhnd"
+addr = 0x229a41
+
+[header.args]

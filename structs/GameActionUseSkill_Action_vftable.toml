@@ -1,0 +1,45 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameActionUseSkill_Action_vftable"
+size = 0x1c
+
+[members.0x0]
+name = "virt_meth_0x405350"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x406a50"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x404b70"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "virt_meth_0x4010d0"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "virt_meth_0x404bb0"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "virt_meth_0x407cc0"
+offset = 0x14
+type = ""
+size = 0x4
+
+[members.0x18]
+name = "virt_meth_0x404bb0_6"
+offset = 0x18
+type = ""
+size = 0x4

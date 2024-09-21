@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xcf230
+size = 0x7a
+name = "sub_4CF230"
+
+[header]
+name = "sub_4CF230"
+addr = 0xcf230
+
+[header.args]

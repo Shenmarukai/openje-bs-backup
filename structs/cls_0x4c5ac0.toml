@@ -1,0 +1,33 @@
+last_change = 2024-09-20T21:52:21.092265Z
+name = "cls_0x4c5ac0"
+size = 0x170
+
+[members.0x154]
+name = "mbr_0x154"
+offset = 0x154
+type = ""
+size = 0x4
+
+[members.0x15c]
+name = "mbr_0x15c"
+offset = 0x15c
+type = ""
+size = 0x4
+
+[members.0x160]
+name = "mbr_0x160"
+offset = 0x160
+type = ""
+size = 0x4
+
+[members.0x164]
+name = "mbr_0x164"
+offset = 0x164
+type = ""
+size = 0x4
+
+[members.0x16c]
+name = "mbr_0x16c"
+offset = 0x16c
+type = ""
+size = 0x4

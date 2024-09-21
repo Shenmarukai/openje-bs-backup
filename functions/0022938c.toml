@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22938c
+size = 0x2a
+name = "__isatty"
+
+[header]
+name = "__isatty"
+addr = 0x22938c
+
+[header.args]

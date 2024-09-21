@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x86e32
+size = 0x63
+name = "sub_486E32"
+
+[header]
+name = "sub_486E32"
+addr = 0x86e32
+
+[header.args]

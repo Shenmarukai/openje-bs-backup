@@ -1,0 +1,105 @@
+last_change = 2024-09-20T21:52:21.063371Z
+name = "Gfx_ModelMeshPkt"
+size = 0x58
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x24
+
+[members.0x24]
+name = "mbr_0x24"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = "mbr_0x28"
+offset = 0x28
+type = ""
+size = 0x4
+
+[members.0x2c]
+name = "mbr_0x2c"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x30]
+name = "mbr_0x30"
+offset = 0x30
+type = ""
+size = 0x4
+
+[members.0x34]
+name = "mbr_0x34"
+offset = 0x34
+type = ""
+size = 0x4
+
+[members.0x38]
+name = "mbr_0x38"
+offset = 0x38
+type = ""
+size = 0x4
+
+[members.0x3c]
+name = "mbr_0x3c"
+offset = 0x3c
+type = ""
+size = 0x1
+
+[members.0x40]
+name = "mbr_0x40"
+offset = 0x40
+type = ""
+size = 0x4
+
+[members.0x44]
+name = "mbr_0x44"
+offset = 0x44
+type = ""
+size = 0x1
+
+[members.0x45]
+name = "mbr_0x45"
+offset = 0x45
+type = ""
+size = 0x1
+
+[members.0x46]
+name = "mbr_0x46"
+offset = 0x46
+type = ""
+size = 0x1
+
+[members.0x47]
+name = "mbr_0x47"
+offset = 0x47
+type = ""
+size = 0x1
+
+[members.0x48]
+name = "mbr_0x48"
+offset = 0x48
+type = ""
+size = 0x4
+
+[members.0x4c]
+name = "mbr_0x4c"
+offset = 0x4c
+type = ""
+size = 0x4
+
+[members.0x50]
+name = "mbr_0x50"
+offset = 0x50
+type = ""
+size = 0x4
+
+[members.0x54]
+name = "mbr_0x54"
+offset = 0x54
+type = ""
+size = 0x4

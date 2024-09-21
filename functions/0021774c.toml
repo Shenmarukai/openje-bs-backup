@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21774c
+size = 0x21
+name = "__copysign"
+
+[header]
+name = "__copysign"
+addr = 0x21774c
+
+[header.args]

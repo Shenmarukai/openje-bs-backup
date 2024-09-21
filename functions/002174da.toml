@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x2174da
+size = 0x57
+name = "_vsprintf"
+
+[header]
+name = "_vsprintf"
+addr = 0x2174da
+
+[header.args]

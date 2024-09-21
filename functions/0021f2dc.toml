@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21f2dc
+size = 0x13
+name = "__initptd"
+
+[header]
+name = "__initptd"
+addr = 0x21f2dc
+
+[header.args]

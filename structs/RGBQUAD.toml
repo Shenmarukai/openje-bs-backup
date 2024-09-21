@@ -1,0 +1,27 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "RGBQUAD"
+size = 0x4
+
+[members.0x0]
+name = "rgbBlue"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "rgbGreen"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "rgbRed"
+offset = 0x2
+type = "BYTE"
+size = 0x1
+
+[members.0x3]
+name = "rgbReserved"
+offset = 0x3
+type = "BYTE"
+size = 0x1

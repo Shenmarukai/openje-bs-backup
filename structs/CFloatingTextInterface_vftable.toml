@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.020179Z
+name = "CFloatingTextInterface_vftable"
+size = 0xc
+
+[members.0x0]
+name = "virt_meth_0x590750"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x5907e0"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x58f9b0"
+offset = 0x8
+type = ""
+size = 0x4

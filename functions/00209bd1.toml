@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x209bd1
+size = 0xc8
+name = "std::numpunct<wchar_t>::_Init(std::_Locinfo_const_&)"
+
+[header]
+name = "std::numpunct<wchar_t>::_Init(std::_Locinfo_const_&)"
+addr = 0x209bd1
+
+[header.args]

@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.121169Z
+name = "tMIXERCONTROLDETAILS"
+size = 0x18
+
+[members.0x0]
+name = "cbStruct"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwControlID"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "cChannels"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "anonymous_0"
+offset = 0xc
+type = "union tMIXERCONTROLDETAILS::$6A354DB64043DD4C59D209C2C03EE69F"
+size = 0x4
+
+[members.0x10]
+name = "cbDetails"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "paDetails"
+offset = 0x14
+type = "LPVOID"
+size = 0x4

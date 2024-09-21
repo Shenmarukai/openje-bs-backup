@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x36330
+size = 0xbf
+name = "ctor_0x436330"
+
+[header]
+name = "ctor_0x436330"
+addr = 0x36330
+
+[header.args]

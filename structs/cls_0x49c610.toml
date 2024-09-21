@@ -1,0 +1,15 @@
+last_change = 2024-09-20T21:52:21.092265Z
+name = "cls_0x49c610"
+size = 0x12c
+
+[members.0x108]
+name = "parent_108"
+offset = 0x108
+type = ""
+size = 0x20
+
+[members.0x128]
+name = "parent_128"
+offset = 0x128
+type = ""
+size = 0x4

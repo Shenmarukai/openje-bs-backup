@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21e427
+size = 0x252
+name = "___crtCompareStringW"
+
+[header]
+name = "___crtCompareStringW"
+addr = 0x21e427
+
+[header.args]

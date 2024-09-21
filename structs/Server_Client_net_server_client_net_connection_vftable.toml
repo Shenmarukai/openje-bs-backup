@@ -1,0 +1,9 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "Server_Client_net_server_client_net_connection_vftable"
+size = 0x4
+
+[members.0x0]
+name = "virt_meth_0x588fc0"
+offset = 0x0
+type = ""
+size = 0x4

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x219c1d
+size = 0x64
+name = "___timet_from_ft"
+
+[header]
+name = "___timet_from_ft"
+addr = 0x219c1d
+
+[header.args]

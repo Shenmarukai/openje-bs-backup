@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21a88c
+size = 0x3e
+name = "_xtoa"
+
+[header]
+name = "_xtoa"
+addr = 0x21a88c
+
+[header.args]

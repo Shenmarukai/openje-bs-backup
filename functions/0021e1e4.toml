@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21e1e4
+size = 0x225
+name = "___crtGetStringTypeW"
+
+[header]
+name = "___crtGetStringTypeW"
+addr = 0x21e1e4
+
+[header.args]

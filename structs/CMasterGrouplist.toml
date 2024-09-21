@@ -1,0 +1,33 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "CMasterGrouplist"
+size = 0x474
+
+[members.0x0]
+name = "parent_0"
+offset = 0x0
+type = ""
+size = 0x2c
+
+[members.0x2c]
+name = "mbr_0x2c"
+offset = 0x2c
+type = ""
+size = 0x4
+
+[members.0x6c]
+name = "mbr_0x6c"
+offset = 0x6c
+type = ""
+size = 0x4
+
+[members.0x70]
+name = "mbr_0x70"
+offset = 0x70
+type = ""
+size = 0x4
+
+[members.0x470]
+name = "mbr_0x470"
+offset = 0x470
+type = ""
+size = 0x4

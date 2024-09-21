@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x20ead4
+size = 0x3d
+name = "?_Getdays@_Locinfo@std@@QBEPBDXZ"
+
+[header]
+name = "?_Getdays@_Locinfo@std@@QBEPBDXZ"
+addr = 0x20ead4
+
+[header.args]

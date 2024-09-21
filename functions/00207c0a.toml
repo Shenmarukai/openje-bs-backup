@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x207c0a
+size = 0x139
+name = "std::strstreambuf::seekoff(long_int_int)"
+
+[header]
+name = "std::strstreambuf::seekoff(long_int_int)"
+addr = 0x207c0a
+
+[header.args]

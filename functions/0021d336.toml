@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21d336
+size = 0x7f
+name = "__Getdays"
+
+[header]
+name = "__Getdays"
+addr = 0x21d336
+
+[header.args]

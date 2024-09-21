@@ -1,0 +1,111 @@
+last_change = 2024-09-20T21:52:21.034452Z
+name = "G3D_Node"
+size = 0x129
+
+[members.0x0]
+name = "vftptr_0x0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "mbr_0x8"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "mbr_0xc"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x1c]
+name = "mbr_0x1c"
+offset = 0x1c
+type = ""
+size = 0x4
+
+[members.0x20]
+name = "mbr_0x20"
+offset = 0x20
+type = ""
+size = 0x4
+
+[members.0x24]
+name = "mbr_0x24"
+offset = 0x24
+type = ""
+size = 0x4
+
+[members.0x28]
+name = ".?AVG3D_Transform@@_0x28"
+offset = 0x28
+type = ""
+size = 0x78
+
+[members.0xa0]
+name = "cls_0x48fce0_0xa0"
+offset = 0xa0
+type = ""
+size = 0x60
+
+[members.0x100]
+name = "mbr_0x100"
+offset = 0x100
+type = ""
+size = 0x4
+
+[members.0x104]
+name = "mbr_0x104"
+offset = 0x104
+type = ""
+size = 0x4
+
+[members.0x108]
+name = "mbr_0x108"
+offset = 0x108
+type = ""
+size = 0x4
+
+[members.0x10c]
+name = "mbr_0x10c"
+offset = 0x10c
+type = ""
+size = 0x4
+
+[members.0x110]
+name = "mbr_0x110"
+offset = 0x110
+type = ""
+size = 0x4
+
+[members.0x114]
+name = "mbr_0x114"
+offset = 0x114
+type = ""
+size = 0x4
+
+[members.0x11c]
+name = "mbr_0x11c"
+offset = 0x11c
+type = ""
+size = 0x4
+
+[members.0x120]
+name = "mbr_0x120"
+offset = 0x120
+type = ""
+size = 0x4
+
+[members.0x124]
+name = "mbr_0x124"
+offset = 0x124
+type = ""
+size = 0x4
+
+[members.0x128]
+name = "mbr_0x128"
+offset = 0x128
+type = ""
+size = 0x1

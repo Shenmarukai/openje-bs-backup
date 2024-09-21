@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x20a747
+size = 0x5
+name = "j_dtor_0x60904b"
+
+[header]
+name = "j_dtor_0x60904b"
+addr = 0x20a747
+
+[header.args]

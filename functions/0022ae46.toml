@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x22ae46
+size = 0x62
+name = "__setmode_lk"
+
+[header]
+name = "__setmode_lk"
+addr = 0x22ae46
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x21efa5
+size = 0x17
+name = "__load_CW"
+
+[header]
+name = "__load_CW"
+addr = 0x21efa5
+
+[header.args]

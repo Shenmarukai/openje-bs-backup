@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0xe7f7d
+size = 0x5
+name = "?SpinYield@ExternalContextBase@details@Concurrency@@UAEXXZ"
+
+[header]
+name = "?SpinYield@ExternalContextBase@details@Concurrency@@UAEXXZ"
+addr = 0xe7f7d
+
+[header.args]

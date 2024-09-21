@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x225c40
+size = 0x2f
+name = "_CPtoLCID"
+
+[header]
+name = "_CPtoLCID"
+addr = 0x225c40
+
+[header.args]

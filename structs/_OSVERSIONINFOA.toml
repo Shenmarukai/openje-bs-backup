@@ -1,0 +1,39 @@
+last_change = 2024-09-20T21:52:21.077586Z
+name = "_OSVERSIONINFOA"
+size = 0x94
+
+[members.0x0]
+name = "dwOSVersionInfoSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMajorVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwMinorVersion"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwBuildNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwPlatformId"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "szCSDVersion"
+offset = 0x14
+type = "CHAR[128]"
+size = 0x80

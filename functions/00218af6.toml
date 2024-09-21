@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x218af6
+size = 0xf
+name = "__c_exit"
+
+[header]
+name = "__c_exit"
+addr = 0x218af6
+
+[header.args]

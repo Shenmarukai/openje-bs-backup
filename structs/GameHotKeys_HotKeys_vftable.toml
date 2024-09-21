@@ -1,0 +1,21 @@
+last_change = 2024-09-20T21:52:21.049125Z
+name = "GameHotKeys_HotKeys_vftable"
+size = 0xc
+
+[members.0x0]
+name = "virt_meth_0x45f2b0"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "virt_meth_0x469090"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "virt_meth_0x599a90"
+offset = 0x8
+type = ""
+size = 0x4

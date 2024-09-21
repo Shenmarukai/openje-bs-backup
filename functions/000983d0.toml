@@ -1,0 +1,10 @@
+last_change = 2024-09-20T21:54:39.586815Z
+addr = 0x983d0
+size = 0x7
+name = "std::ctype<char>::do_narrow(char_char)"
+
+[header]
+name = "std::ctype<char>::do_narrow(char_char)"
+addr = 0x983d0
+
+[header.args]
